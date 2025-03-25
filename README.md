@@ -20,26 +20,11 @@ https://arxiv.org/pdf/1312.5602
 ## Some visualizations from training
 
 ### Cheetah
-
-#### after 100 episodes of training
-https://github.com/user-attachments/assets/3c0816a8-c409-4a35-8a9b-572ec972e728
-
-#### after 1900 episodes of training
-https://github.com/user-attachments/assets/1823cddf-a433-4dfd-ab9c-bcce6fddaba9
+after 100 episodes of training|after 1900 episodes of training
+--|--
+![](cheetah_EPISODE_100__SCORE_12.gif)|![](cheetah_EPISODE_1900__SCORE_284.gif)
 
 ### Humanoid
-
-#### after 100 episodes of training
-https://github.com/user-attachments/assets/5f03321c-2ac8-4c5d-83d7-50674429ce9a
-
-#### after 2000 episodes of training
-https://github.com/user-attachments/assets/565dac31-0a4d-4477-a505-681b087b44ad
-
-#### after 2500 episodes of training
-https://github.com/user-attachments/assets/937ef27a-c4b7-4293-9223-8640780f4f00
-
-#### after 10550 episodes of training
-https://github.com/user-attachments/assets/3bf9dcaf-a11c-48c6-a838-784fe3407a59
-
-#### after 29750 episodes of training
-https://github.com/user-attachments/assets/7d04a645-6f00-4e7d-b3c1-ebbd1c007bbc
+after 100 episodes of training|after 2000 episodes of training|after 2500 episodes of training|after 10550 episodes of training|after 29750 episodes of training
+--|--|--|--|--
+![](humanoid_EPISODE_100_SCORE_1.gif)|![](humanoid_EPISODE_2000_SCORE_10.gif)|![](humanoid_EPISODE_2500__SCORE_20.gif)|![](humanoid_EPISODE_10550_SCORE_46.gif)|![](humanoid_EPISODE_29750__SCORE_68.gif)|
