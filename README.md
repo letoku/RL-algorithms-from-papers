@@ -22,9 +22,9 @@ https://arxiv.org/pdf/1312.5602
 ### Cheetah
 after 100 episodes of training|after 1900 episodes of training
 --|--
-![](cheetah_EPISODE_100__SCORE_12.gif)|![](cheetah_EPISODE_1900__SCORE_284.gif)
+![](gifs/cheetah_EPISODE_100__SCORE_12.gif)|![](gifs/cheetah_EPISODE_1900__SCORE_284.gif)
 
 ### Humanoid
 after 100 episodes of training|after 2000 episodes of training|after 2500 episodes of training|after 10550 episodes of training|after 29750 episodes of training
 --|--|--|--|--
-![](humanoid_EPISODE_100_SCORE_1.gif)|![](humanoid_EPISODE_2000_SCORE_10.gif)|![](humanoid_EPISODE_2500__SCORE_20.gif)|![](humanoid_EPISODE_10550_SCORE_46.gif)|![](humanoid_EPISODE_29750__SCORE_68.gif)|
+![](gifs/humanoid_EPISODE_100_SCORE_1.gif)|![](gifs/humanoid_EPISODE_2000_SCORE_10.gif)|![](gifs/humanoid_EPISODE_2500__SCORE_20.gif)|![](gifs/humanoid_EPISODE_10550_SCORE_46.gif)|![](gifs/humanoid_EPISODE_29750__SCORE_68.gif)|
